@@ -16,7 +16,7 @@ background-size:cover;
 p1{ color:powderblue;font-size: 50px;}
 p2{ color:powderblue;font-size: 40px;
 text-shadow:3px 2px rgb(170, 107, 230);}
-p3{ color:rgb(3, 11, 12);font-size: 28px;}
+p3{ color:rgb(103, 133, 215);font-size: 28px;}
 p4{color:aliceblue;}
 #div { background-color:rgba(244, 244, 250, 0.103);
 	color:black;
@@ -49,7 +49,7 @@ fieldset{
 
 table, th, td { width: 1000px;
 				height: 70px;
-				border: 4px solid rgb(164,164, 238);
+				border: 4px solid rgb(244,244, 250);
 			}
 
 footor{
