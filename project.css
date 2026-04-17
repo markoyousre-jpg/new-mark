@@ -19,6 +19,7 @@ p2{ color:white;font-size: 40px;
 text-shadow:3px 2px rgb(170, 107, 230);}
 p3{ color:rgb(220, 220, 220);font-size: 28px;}
 p4{color:white;}
+p{color:white;}
 #div { background-color:rgba(244, 244, 250, 0.103);
 	color:black;
 	 border: 10px;
